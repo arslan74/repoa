@@ -5,4 +5,7 @@ feature 3.1
 feature 4
 Fun with tracking branches
 Fun with pull command
+rebase commit on feature branch
 Feature 5
+
+
